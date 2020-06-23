@@ -29,7 +29,8 @@ pip3 install sortedcontainers
 ```
 For more information on installation and implementation, please go through official [SortedContainer documnetation](http://www.grantjenks.com/docs/sortedcontainers/).
 
-## How to run
+### How to run
+------
 ```
 python3 redis.py
 ```
