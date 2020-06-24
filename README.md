@@ -2,8 +2,6 @@
 Implemetation of few redis commands like GET, SET, ZADD, ZRANGE etc using python sortedLists
 For any queries mail : saisravan.m@research.iiit.ac.in
 
-
-<!---
 ---------------------
 ### Basic Implementation details
 -------------
@@ -46,4 +44,3 @@ python3 client.py			#open a new terminal for a new client.
 **NOTE** : The database used for storing information is not saved at multiple intervals. Rather we store it when exiting or starting of the code to reduce data writing overhead eachtime. Hence use **Ctrl+C** or **Ctrl+D** to exit.
 
 ---------
------->
