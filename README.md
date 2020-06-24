@@ -39,7 +39,7 @@ Server-Client mode (1 server, multiple clients):
 ```
 python3 server.py			#From terminal 1
 python3 client.py			#open a new terminal for a new client.
-							#Donot use the same terminal where server runs
+					#Donot use the same terminal where server runs
 ```
 **NOTE** : The database used for storing information is not saved at multiple intervals. Rather we store it when exiting or starting of the code to reduce data writing overhead eachtime. Hence use **Ctrl+C** or **Ctrl+D** to exit.
 
